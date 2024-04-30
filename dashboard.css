@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    height: 200vh;
+}
+
+.signup-heading1 {
+    font-size: 25px;
+    margin-left: 90px;
+    color: white;
+    background-color: #873fc9;
+    width: 1266px;
+    font-weight: 400;
+    padding: 7px;
+}
+
+.login-pagelink {
+    position: absolute;
+    left: 1210px;
+    top: 13px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.signup-heading2 {
+    font-size: 35px;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: rgb(18, 14, 14);
+    font-weight: 600;
+}
+
+.form-setting3 {
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+#placeholder {
+    padding: 5px 550px 10px 15px;
+    color: grey;
+    border-radius: 7px;
+}
+input[type=text]{
+    font-size: 20px;
+}
+.textarea{
+    margin-top: 25px;
+}
+#text{
+font-size: 16px;
+}
+.blogs{
+    font-size: 34px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.img{
+    display: flex;
+}
+.blog-pic{
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border-radius: 10%;
+}

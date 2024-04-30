@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.signup-heading1{
+    font-size: 25px;
+    margin-left: 90px;
+    color: white;
+    background-color:#873fc9;
+    width: 1266px;
+    font-weight: 400;
+    padding: 7px;
+}
+.login-pagelink{
+    position: absolute;
+    left: 1210px;
+    top: 13px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.signup-heading2{
+    font-size: 35px;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: rgb(18, 14, 14);
+    font-weight: 600;
+}
+.form-setting{
+    margin-left: 590px;
+    margin-top: 80px;
+}
+#firstname{
+    padding: 5px 60px 5px 10px;
+    color: grey;
+    border-radius: 7px;
+}
+#lastname{
+    padding: 5px 60px 5px 10px;
+    color: grey;
+    border-radius: 7px;
+}
+#email{
+    padding: 5px 60px 5px 10px;
+    color: grey;
+    border-radius: 7px;
+}
+#password{
+    padding: 5px 60px 5px 10px;
+    color: grey;
+    border-radius: 7px;
+}
+#repeat-password{
+    padding: 5px 60px 5px 10px;
+    border-radius: 7px;
+}
+input[type=text]{
+    font-size: 18px;
+}
+input[type=email]{
+    font-size: 18px;
+}
+input[type=password]{
+    font-size: 18px;
+}
+.button1{
+    margin-left: 85px;
+    font-size: 20px;
+    border-radius: 7px;
+}
+.btn1{
+    border: none;
+    padding: 10px 23px 6px 21px;
+    color: white;
+    background-color: #873fc9;
+    font-size: 18px;
+}
